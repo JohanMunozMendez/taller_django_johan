@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="097c3fb8-cdc9-451a-88a6-6d3cc6277243" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/polls/templates/polls/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polls/templates/polls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polls/templates/polls/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/polls/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/polls/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -28,13 +34,16 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2kZ47SDNWlAAo5fkkECGwskMm3Z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;Python.runserver.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;johan&quot;,
@@ -92,7 +101,7 @@
       <updated>1723477596495</updated>
       <workItem from="1723477597859" duration="19437000" />
       <workItem from="1723520766993" duration="224000" />
-      <workItem from="1723558070853" duration="4518000" />
+      <workItem from="1723558070853" duration="18773000" />
     </task>
     <servers />
   </component>
