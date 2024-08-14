@@ -7,7 +7,7 @@ from django.urls import reverse
 from django.utils import timezone
 from django.views import generic
 
-from polls.models import Question, Choice
+from .models import Question, Choice
 
 
 class IndexView(generic.ListView):
